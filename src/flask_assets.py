@@ -9,7 +9,7 @@ from webassets.filter import Filter, register_filter
 from webassets.loaders import PythonLoader, YAMLLoader
 
 
-__version__ = (0, 11)
+__version__ = (0, 11, '1-dev')
 __webassets_version__ = ('>=0.11',)  # webassets core compatibility. used in setup.py
 
 
